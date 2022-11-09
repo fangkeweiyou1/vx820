@@ -1,0 +1,3 @@
+include ':vx820'
+include ':app'
+rootProject.name = "Vx820Manager"
